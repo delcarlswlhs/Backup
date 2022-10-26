@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=GrilledCheese
+comment0.text=\r\n\ \r\n\ The\ GrilledCheese\ class\ describes\ a\ grilled\ cheese\ sandwich.\r\n\ This\ file\ states\ what\ every\ GrilledCheese\ object\ will\ have,\ but\r\n\ this\ file\ is\ NOT\ an\ object.\r\n\ \r\n\ Every\ grilled\ cheese\ needs\ a\ type\ of\ bread,\ a\ type\ of\ cheese,\r\n\ what\ temperature\ to\ cook\ the\ grilled\ cheese\ (should\ it\ be\ burned\!?),\r\n\ and\ if\ the\ sandwich\ should\ have\ twice\ as\ much\ cheese\ as\ normal.\r\n
+numComments=1

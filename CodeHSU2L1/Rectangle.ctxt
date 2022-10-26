@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ \ This\ example\ shows\ the\ first\ step\ of\ creating\ a\ Rectangle\ class\ \r\n\ \r\n\ Every\ class\ has\ a\ name,\ attributes,\ and\ methods.\r\n\ This\ first\ draft\ of\ the\ Rectangle\ class\ outlines\ the\r\n\ name\ and\ attributes\ of\ the\ Rectangle\ class.\r\n\ \r\n\ This\ file\ describes\ the\ attributes\ that\ every\ Rectangle\ object\ will\ have.\r\n\ You'll\ see\ how\ to\ create\ objects\ in\ the\ next\ lesson.\r\n\ \r\n
+comment1.params=rectWidth\ rectHeight
+comment1.target=Rectangle(double,\ double)
+comment2.params=
+comment2.target=double\ getHeight()
+comment3.params=
+comment3.target=double\ getWidth()
+comment4.params=
+comment4.target=double\ getArea()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
