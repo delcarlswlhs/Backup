@@ -1,4 +1,0 @@
-#BlueJ class context
-comment0.target=Shark
-comment0.text=\r\n\ \r\n\ The\ Shark\ class\ describes\ a\ shark.\r\n\ \r\n\ Every\ shark\ has\ a\ region\ where\ it\ lives,\ its\ favorite\ prey,\r\n\ a\ color,\ and\ an\ age.\r\n\ \r\n\ Just\ like\ every\ shark\ in\ the\ ocean\ is\ an\ individual\ animal,\r\n\ when\ you\ create\ objects\ of\ the\ Shark\ class,\ each\ object\r\n\ will\ be\ a\ different\ Shark.\ \ \r\n\ The\ class\ definition\ specifies\ what\ attributes\ you\ can\ expect\r\n\ every\ shark\ to\ have.\r\n\ \r\n
-numComments=1
